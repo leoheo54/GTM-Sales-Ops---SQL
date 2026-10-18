@@ -1,0 +1,151 @@
+account_id,account_name,industry,region,country,company_size_segment,employee_count,lead_source,created_date
+AC0001,Cedar Systems 001,Retail,LATAM,Mexico,SMB,37,Partner,2025-05-09
+AC0002,CloudHarbor Systems 002,Education,North America,United States,Mid-Market,929,Partner,2024-11-27
+AC0003,BluePeak Group 003,Manufacturing,North America,United States,SMB,53,Outbound,2024-12-05
+AC0004,Pioneer Group 004,Manufacturing,EMEA,United Kingdom,Enterprise,16055,Outbound,2025-01-10
+AC0005,Clearwater Partners 005,Education,LATAM,Chile,Mid-Market,147,Referral,2024-04-21
+AC0006,Clearwater Solutions 006,Technology,APAC,Japan,SMB,68,Outbound,2024-06-30
+AC0007,Vertex Labs 007,Retail,EMEA,Germany,Mid-Market,174,Inbound,2025-02-16
+AC0008,Cedar Solutions 008,Education,North America,United States,Enterprise,19251,Inbound,2023-03-07
+AC0009,Cedar Solutions 009,Technology,EMEA,Spain,SMB,18,Outbound,2025-07-28
+AC0010,Pioneer Industries 010,Professional Services,North America,Canada,SMB,81,Event,2025-03-28
+AC0011,Pioneer Holdings 011,Financial Services,LATAM,Brazil,Enterprise,5533,Event,2023-11-10
+AC0012,Vertex Group 012,Manufacturing,EMEA,Spain,Mid-Market,533,Outbound,2025-08-16
+AC0013,Clearwater Group 013,Professional Services,LATAM,Chile,Enterprise,1377,Partner,2024-11-27
+AC0014,Northstar Industries 014,Retail,North America,United States,SMB,68,Outbound,2023-08-06
+AC0015,Pioneer Partners 015,Technology,APAC,Japan,SMB,91,Partner,2023-01-02
+AC0016,Ironwood Solutions 016,Education,EMEA,France,Mid-Market,215,Inbound,2024-05-08
+AC0017,Redwood Holdings 017,Education,APAC,Australia,Enterprise,3807,Referral,2023-09-15
+AC0018,Summit Industries 018,Retail,North America,Canada,Mid-Market,663,Referral,2024-02-16
+AC0019,Clearwater Solutions 019,Manufacturing,EMEA,Netherlands,SMB,95,Outbound,2024-05-22
+AC0020,Pioneer Partners 020,Retail,North America,United States,SMB,85,Inbound,2023-05-01
+AC0021,BluePeak Partners 021,Healthcare,North America,Canada,Enterprise,11828,Inbound,2023-09-28
+AC0022,Evergreen Partners 022,Education,EMEA,Spain,Enterprise,19882,Event,2024-01-25
+AC0023,Silverline Works 023,Manufacturing,North America,United States,Mid-Market,463,Partner,2023-07-21
+AC0024,CloudHarbor Group 024,Technology,North America,United States,Mid-Market,920,Inbound,2025-07-07
+AC0025,Cedar Group 025,Manufacturing,North America,United States,SMB,69,Inbound,2023-01-31
+AC0026,Summit Works 026,Manufacturing,APAC,South Korea,Enterprise,8746,Inbound,2025-04-01
+AC0027,Silverline Industries 027,Education,APAC,South Korea,SMB,10,Inbound,2025-09-23
+AC0028,Vertex Systems 028,Professional Services,North America,Canada,SMB,17,Inbound,2025-09-03
+AC0029,Northstar Group 029,Education,LATAM,Mexico,Enterprise,6159,Inbound,2023-05-20
+AC0030,Ironwood Partners 030,Retail,EMEA,Netherlands,SMB,25,Inbound,2023-06-17
+AC0031,Atlas Industries 031,Technology,LATAM,Chile,Mid-Market,636,Inbound,2025-03-21
+AC0032,Atlas Group 032,Financial Services,North America,Canada,Mid-Market,569,Partner,2023-07-24
+AC0033,Summit Solutions 033,Financial Services,North America,United States,SMB,43,Outbound,2023-11-20
+AC0034,Vertex Systems 034,Professional Services,LATAM,Chile,Mid-Market,410,Referral,2023-08-01
+AC0035,Ironwood Group 035,Professional Services,APAC,India,SMB,24,Inbound,2024-07-31
+AC0036,Clearwater Industries 036,Retail,EMEA,Spain,Mid-Market,309,Inbound,2023-04-15
+AC0037,Northstar Systems 037,Healthcare,North America,United States,SMB,45,Partner,2024-06-20
+AC0038,Silverline Systems 038,Financial Services,North America,United States,SMB,100,Referral,2023-11-02
+AC0039,Summit Works 039,Technology,LATAM,Brazil,Enterprise,19106,Inbound,2023-03-23
+AC0040,Clearwater Group 040,Healthcare,APAC,India,SMB,41,Event,2025-04-12
+AC0041,CloudHarbor Labs 041,Education,APAC,Singapore,Mid-Market,343,Event,2023-02-20
+AC0042,Meridian Partners 042,Healthcare,North America,United States,Enterprise,14492,Partner,2023-08-10
+AC0043,Cedar Partners 043,Education,LATAM,Colombia,SMB,70,Outbound,2024-04-11
+AC0044,Atlas Industries 044,Education,North America,United States,Mid-Market,509,Referral,2024-07-25
+AC0045,CloudHarbor Solutions 045,Financial Services,North America,United States,Mid-Market,796,Event,2024-06-18
+AC0046,Northstar Group 046,Retail,North America,Canada,Enterprise,9699,Outbound,2024-10-04
+AC0047,Silverline Partners 047,Healthcare,LATAM,Brazil,Enterprise,4790,Partner,2023-01-04
+AC0048,Atlas Works 048,Financial Services,LATAM,Chile,Enterprise,7457,Partner,2023-09-13
+AC0049,Clearwater Works 049,Healthcare,EMEA,Spain,SMB,49,Partner,2023-09-18
+AC0050,Clearwater Labs 050,Retail,North America,Canada,Mid-Market,489,Outbound,2023-01-01
+AC0051,Vertex Solutions 051,Manufacturing,North America,Canada,SMB,84,Outbound,2024-03-13
+AC0052,Redwood Labs 052,Professional Services,LATAM,Brazil,Mid-Market,916,Inbound,2024-11-17
+AC0053,Clearwater Industries 053,Technology,North America,United States,Enterprise,8697,Inbound,2023-04-05
+AC0054,Meridian Group 054,Manufacturing,North America,Canada,Mid-Market,971,Event,2024-02-03
+AC0055,Cedar Labs 055,Professional Services,EMEA,United Kingdom,SMB,61,Event,2023-08-07
+AC0056,Pioneer Holdings 056,Financial Services,EMEA,Netherlands,SMB,99,Inbound,2023-09-06
+AC0057,Pioneer Solutions 057,Education,LATAM,Colombia,Enterprise,18405,Outbound,2025-10-30
+AC0058,Ironwood Labs 058,Professional Services,LATAM,Colombia,Enterprise,15612,Outbound,2024-05-21
+AC0059,Evergreen Partners 059,Healthcare,APAC,South Korea,SMB,76,Inbound,2024-08-08
+AC0060,BluePeak Labs 060,Technology,North America,United States,SMB,79,Outbound,2023-11-09
+AC0061,Atlas Holdings 061,Manufacturing,EMEA,United Kingdom,SMB,62,Inbound,2025-05-10
+AC0062,Northstar Works 062,Manufacturing,LATAM,Brazil,Mid-Market,813,Referral,2024-09-03
+AC0063,Pioneer Partners 063,Manufacturing,EMEA,Germany,Enterprise,14731,Inbound,2025-09-21
+AC0064,Meridian Works 064,Professional Services,North America,United States,SMB,96,Event,2023-09-19
+AC0065,Vertex Systems 065,Financial Services,APAC,South Korea,Mid-Market,504,Inbound,2025-08-03
+AC0066,Cedar Holdings 066,Healthcare,North America,Canada,SMB,51,Partner,2025-02-15
+AC0067,BrightPath Group 067,Manufacturing,North America,United States,Enterprise,14814,Partner,2023-04-17
+AC0068,BluePeak Systems 068,Education,APAC,Australia,SMB,93,Referral,2024-02-13
+AC0069,Summit Holdings 069,Professional Services,APAC,Australia,Mid-Market,345,Outbound,2024-03-22
+AC0070,Summit Group 070,Education,LATAM,Mexico,SMB,57,Referral,2023-08-10
+AC0071,Clearwater Works 071,Manufacturing,LATAM,Mexico,Enterprise,19868,Inbound,2024-05-12
+AC0072,Clearwater Group 072,Education,North America,United States,Mid-Market,971,Outbound,2025-05-27
+AC0073,Atlas Systems 073,Education,EMEA,Spain,SMB,92,Event,2023-08-05
+AC0074,Redwood Labs 074,Manufacturing,LATAM,Mexico,SMB,68,Partner,2024-07-07
+AC0075,Evergreen Works 075,Education,EMEA,Netherlands,Enterprise,16844,Inbound,2024-05-17
+AC0076,Cedar Holdings 076,Retail,APAC,India,SMB,67,Partner,2024-11-19
+AC0077,Evergreen Partners 077,Healthcare,North America,Canada,Enterprise,6959,Outbound,2024-07-19
+AC0078,BluePeak Partners 078,Professional Services,LATAM,Colombia,Mid-Market,296,Outbound,2024-05-07
+AC0079,Evergreen Systems 079,Financial Services,EMEA,France,Mid-Market,603,Inbound,2024-05-13
+AC0080,Pioneer Solutions 080,Manufacturing,North America,Canada,Mid-Market,585,Outbound,2025-07-18
+AC0081,Redwood Partners 081,Healthcare,North America,United States,SMB,25,Partner,2024-01-15
+AC0082,Redwood Industries 082,Financial Services,North America,United States,Mid-Market,384,Inbound,2025-01-09
+AC0083,Summit Industries 083,Financial Services,North America,United States,SMB,78,Outbound,2023-09-16
+AC0084,CloudHarbor Systems 084,Retail,EMEA,France,Mid-Market,206,Outbound,2025-06-21
+AC0085,CloudHarbor Holdings 085,Financial Services,North America,United States,Enterprise,9274,Outbound,2023-06-01
+AC0086,Summit Industries 086,Financial Services,LATAM,Mexico,Mid-Market,256,Inbound,2025-05-02
+AC0087,Meridian Works 087,Manufacturing,EMEA,Spain,Mid-Market,332,Inbound,2025-05-28
+AC0088,Redwood Group 088,Education,North America,United States,Mid-Market,725,Partner,2024-06-25
+AC0089,Pioneer Group 089,Technology,EMEA,United Kingdom,SMB,32,Outbound,2025-08-20
+AC0090,BrightPath Holdings 090,Financial Services,North America,United States,SMB,100,Referral,2024-02-10
+AC0091,Summit Industries 091,Education,LATAM,Mexico,Mid-Market,764,Inbound,2023-12-06
+AC0092,Vertex Industries 092,Manufacturing,EMEA,United Kingdom,Mid-Market,945,Outbound,2024-09-14
+AC0093,Pioneer Holdings 093,Manufacturing,EMEA,United Kingdom,Enterprise,17400,Outbound,2025-06-03
+AC0094,BluePeak Partners 094,Professional Services,EMEA,Netherlands,Mid-Market,127,Outbound,2023-02-12
+AC0095,Vertex Systems 095,Education,APAC,Singapore,Mid-Market,376,Outbound,2025-06-24
+AC0096,Silverline Holdings 096,Financial Services,APAC,South Korea,SMB,84,Outbound,2024-11-13
+AC0097,Atlas Works 097,Professional Services,North America,Canada,SMB,30,Inbound,2025-03-31
+AC0098,BluePeak Solutions 098,Healthcare,EMEA,France,Mid-Market,566,Inbound,2025-04-07
+AC0099,Clearwater Holdings 099,Manufacturing,APAC,Australia,Enterprise,1038,Inbound,2025-01-10
+AC0100,Meridian Systems 100,Technology,EMEA,France,Mid-Market,553,Outbound,2024-08-12
+AC0101,Northstar Partners 101,Professional Services,LATAM,Mexico,Mid-Market,225,Inbound,2023-01-29
+AC0102,Evergreen Group 102,Professional Services,LATAM,Mexico,SMB,24,Outbound,2024-08-20
+AC0103,Evergreen Partners 103,Manufacturing,LATAM,Mexico,SMB,71,Outbound,2025-11-06
+AC0104,BrightPath Works 104,Healthcare,EMEA,Netherlands,SMB,18,Inbound,2023-01-06
+AC0105,Vertex Holdings 105,Education,North America,United States,SMB,85,Outbound,2025-09-18
+AC0106,Silverline Holdings 106,Healthcare,North America,United States,Mid-Market,657,Referral,2024-05-04
+AC0107,Northstar Solutions 107,Professional Services,LATAM,Colombia,SMB,62,Partner,2025-02-19
+AC0108,Clearwater Labs 108,Manufacturing,LATAM,Brazil,Mid-Market,941,Inbound,2024-11-10
+AC0109,BluePeak Holdings 109,Financial Services,APAC,Singapore,Enterprise,15428,Outbound,2023-11-13
+AC0110,Atlas Works 110,Professional Services,North America,United States,Mid-Market,372,Event,2025-02-17
+AC0111,Evergreen Systems 111,Retail,APAC,Australia,Mid-Market,878,Inbound,2024-08-11
+AC0112,BluePeak Group 112,Manufacturing,APAC,Singapore,Mid-Market,545,Partner,2023-03-01
+AC0113,Atlas Solutions 113,Manufacturing,North America,United States,Mid-Market,401,Inbound,2025-04-23
+AC0114,Summit Group 114,Retail,LATAM,Colombia,Mid-Market,275,Outbound,2024-05-08
+AC0115,Evergreen Industries 115,Manufacturing,LATAM,Chile,Mid-Market,338,Partner,2025-08-10
+AC0116,BluePeak Holdings 116,Healthcare,APAC,India,Mid-Market,262,Inbound,2025-05-18
+AC0117,Cedar Works 117,Education,EMEA,Spain,Mid-Market,410,Inbound,2025-02-20
+AC0118,BrightPath Systems 118,Education,LATAM,Colombia,Mid-Market,817,Inbound,2023-04-11
+AC0119,Ironwood Industries 119,Education,APAC,Singapore,Mid-Market,953,Outbound,2024-12-22
+AC0120,Clearwater Labs 120,Professional Services,North America,United States,SMB,42,Event,2023-03-22
+AC0121,Atlas Labs 121,Financial Services,North America,Canada,SMB,84,Outbound,2025-04-30
+AC0122,Ironwood Solutions 122,Retail,North America,Canada,SMB,79,Event,2024-06-10
+AC0123,Redwood Solutions 123,Education,APAC,Australia,Enterprise,10672,Outbound,2023-06-04
+AC0124,CloudHarbor Solutions 124,Financial Services,North America,Canada,Enterprise,14023,Inbound,2023-09-11
+AC0125,BrightPath Works 125,Education,LATAM,Chile,Mid-Market,789,Inbound,2024-04-23
+AC0126,Atlas Partners 126,Professional Services,LATAM,Brazil,Mid-Market,675,Partner,2025-08-08
+AC0127,BluePeak Labs 127,Financial Services,APAC,Australia,SMB,62,Inbound,2025-10-05
+AC0128,Summit Works 128,Manufacturing,North America,Canada,SMB,78,Partner,2025-05-08
+AC0129,Clearwater Group 129,Education,EMEA,Spain,Mid-Market,525,Outbound,2024-07-26
+AC0130,Evergreen Partners 130,Education,North America,Canada,SMB,66,Inbound,2025-01-22
+AC0131,Northstar Works 131,Healthcare,LATAM,Mexico,Enterprise,12754,Referral,2025-07-20
+AC0132,Vertex Systems 132,Financial Services,North America,Canada,SMB,91,Inbound,2023-09-15
+AC0133,Cedar Partners 133,Education,EMEA,Germany,SMB,80,Outbound,2023-10-30
+AC0134,CloudHarbor Labs 134,Technology,EMEA,Netherlands,Mid-Market,384,Inbound,2023-12-24
+AC0135,Northstar Solutions 135,Education,North America,United States,Enterprise,5319,Outbound,2023-02-02
+AC0136,Pioneer Group 136,Professional Services,North America,United States,SMB,63,Outbound,2025-01-11
+AC0137,Cedar Systems 137,Professional Services,LATAM,Chile,SMB,74,Outbound,2023-03-05
+AC0138,Silverline Group 138,Manufacturing,North America,Canada,Mid-Market,512,Inbound,2023-06-15
+AC0139,BrightPath Solutions 139,Manufacturing,North America,Canada,SMB,26,Outbound,2025-05-31
+AC0140,Clearwater Partners 140,Manufacturing,North America,Canada,Mid-Market,974,Event,2025-04-27
+AC0141,Redwood Group 141,Healthcare,North America,Canada,Mid-Market,526,Inbound,2024-06-06
+AC0142,BluePeak Group 142,Education,LATAM,Brazil,SMB,70,Inbound,2023-07-17
+AC0143,Pioneer Systems 143,Retail,EMEA,Netherlands,SMB,26,Outbound,2023-09-08
+AC0144,CloudHarbor Systems 144,Healthcare,LATAM,Chile,Enterprise,14859,Outbound,2025-11-05
+AC0145,CloudHarbor Group 145,Healthcare,North America,Canada,Mid-Market,330,Inbound,2024-07-24
+AC0146,Meridian Systems 146,Retail,LATAM,Chile,Enterprise,19382,Inbound,2024-07-13
+AC0147,Atlas Systems 147,Technology,EMEA,Germany,SMB,53,Outbound,2025-03-31
+AC0148,BluePeak Partners 148,Manufacturing,North America,Canada,Mid-Market,132,Outbound,2023-11-19
+AC0149,Vertex Group 149,Financial Services,LATAM,Mexico,Mid-Market,896,Inbound,2023-04-12
+AC0150,Silverline Holdings 150,Retail,EMEA,Spain,SMB,94,Outbound,2024-03-17

@@ -1,0 +1,13 @@
+sales_rep_id,sales_rep_name,region,primary_segment,hire_date
+SR001,Jordan Lee,North America,Enterprise,2024-08-02
+SR002,Taylor Morgan,North America,Mid-Market,2021-08-17
+SR003,Casey Patel,North America,SMB,2021-02-21
+SR004,Alex Kim,LATAM,Enterprise,2022-07-18
+SR005,Sam Rivera,LATAM,Mid-Market,2022-05-17
+SR006,Jamie Costa,LATAM,SMB,2022-04-03
+SR007,Riley Chen,EMEA,Enterprise,2021-10-13
+SR008,Drew Wilson,EMEA,Mid-Market,2021-07-29
+SR009,Avery Singh,EMEA,SMB,2024-10-17
+SR010,Morgan Silva,APAC,Enterprise,2024-01-22
+SR011,Cameron Park,APAC,Mid-Market,2021-06-28
+SR012,Quinn Santos,APAC,SMB,2024-04-24

@@ -1,0 +1,11 @@
+Synthetic dataset validation
+
+accounts: 150
+sales_reps: 12
+opportunities: 360
+activities: 1000
+orphan_opportunity_accounts: 0
+orphan_opportunity_reps: 0
+orphan_activities: 0
+closed_flag_mismatches: 0
+won_flag_mismatches: 0
